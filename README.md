@@ -1,0 +1,2 @@
+# KryptoProjects..github.io
+Static
