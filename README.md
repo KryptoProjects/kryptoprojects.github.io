@@ -17,7 +17,7 @@ Coming soon, a security system for Roblox Discord Communities. Encourage 2FA usa
 
 Hi there, 
 
-I am jdc20181, one of the co-founders, and I am coming to you to announce my plan to open source Krypto Project's first project, Krypto Capture. [Read about it here](/RE_ Krypto Projects & Open Source.md)
+I am jdc20181, one of the co-founders, and I am coming to you to announce my plan to open source Krypto Project's first project, Krypto Capture. [Read about it here](https://kryptoprojects.github.io/opensource)
 
 
 
