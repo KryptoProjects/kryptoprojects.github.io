@@ -1,2 +1,3 @@
-# KryptoProjects..github.io
-Static
+# The future a Galaxy away
+
+> Coming Soon
