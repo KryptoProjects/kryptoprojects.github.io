@@ -1,10 +1,10 @@
-# The future a Galaxy away - We're here to make it.
+### The future a Galaxy away - We're here to make it.
 
 - Krypto Capture
 - KryptoSec
 
 
-## Announcements
+#### Announcements
 
 > RE: KryptoSec
 
